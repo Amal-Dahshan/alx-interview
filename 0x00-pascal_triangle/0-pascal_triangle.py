@@ -9,7 +9,8 @@
 
 def pascal_triangle(n):
     """
-        A function that returns a list of lists of integers representing the Pascal’s triangle of n
+        A function that returns a list of lists of integers
+        representing Pascal’s triangle of n
         Returns an empty list if n <= 0 that receives a parameter n
     """
     final_array = []
