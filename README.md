@@ -1,9 +1,10 @@
-# 0x00. Pascal's Triangle
-** Algorithm - Python**
+# Technical interviews practice
+** Algorithm - Problem solving**
 
 ### Description:
 
-Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n:
+The repository serves as a comprehensive resource for tackling technical interview coding problems.
 
-- Returns an empty list if n <= 0
-- You can assume n will be always an integer
+It features a diverse array of challenges ranging from data structures and algorithms to system design questions.
+
+Each problem is meticulously documented with clear explanations and sample solutions in various programming languages.
