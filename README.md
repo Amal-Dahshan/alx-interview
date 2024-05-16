@@ -1,5 +1,5 @@
 # Technical interviews practice
-** Algorithm - Problem solving**
+**Algorithm - Problem solving**
 
 ### Description:
 
